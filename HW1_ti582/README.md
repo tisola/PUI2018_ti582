@@ -13,10 +13,11 @@ Following are screenshots showing my terminal commands and .bash_profile edits.
 
 ## Screenshots
 
-Screenshot 1
+###Screenshot 1
 ![Alt text](../HW1_ti582/Screenshots/Screenshot_1.png)
 Showing the .bash_profile
 
-Screenshot 2
+###Screenshot 2
 ![Alt text](../HW1_ti582/Screenshots/Screenshot_2.png)
+<br/><br/>
 Showing the terminal commands
