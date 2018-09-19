@@ -13,5 +13,5 @@ Following are screenshots showing my terminal commands and .bash_profile edits.
 
 ## Screenshots
 
-![Alt text](../HW1_ti582/Screenshots/Screenshot 1.png)
+![Alt text](../HW1_ti582/Screenshots/Screenshot_1.png)
 
