@@ -33,11 +33,11 @@ data = json.loads(MTAdata)
 
 data2 = data['Siri']['ServiceDelivery']['VehicleMonitoringDelivery'][0]['VehicleActivity']
 
-fout = open("test2.csv", "w")
+fout = open(sys.argv[3], "w")
 fout.write("Latitude,Longitude,Stop Name,Stop Status\n")
 for i in range(len(data2)):
-    Lat = data2[i]['MonitoredVehicleJourney']['VehicleLocation']['Longitude'],
-    Long = data2[i]['MonitoredVehicleJourney']['VehicleLocation']['Latitude']
+    Lat = data2[i]['MonitoredVehicleJourney']['VehicleLocation']['Latitude'],
+    Long = data2[i]['MonitoredVehicleJourney']['VehicleLocation']['Longitude']
     onCall = data2[i]['MonitoredVehicleJourney']['OnwardCalls']
     if len(onCall)==0:
         fout.write("%s,"%Lat+"%s,"%Long+"N/A,N/A\n"),

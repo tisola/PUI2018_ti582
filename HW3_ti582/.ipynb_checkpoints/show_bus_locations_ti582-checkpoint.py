@@ -40,4 +40,4 @@ print ("The number of active buses on the route is: %s" % active_buses)
 for i in range(len(MTAinfo)):
     location = json.dumps(MTAinfo[i]['MonitoredVehicleJourney']['VehicleLocation'])
     location2 = location.split(",")
-    print ("Bus %s is at longitute"%(i+1),location2[0][14:],"and latitude",location2[1].rsplit('}',1)[0][13:22]),
+    print ("Bus %s is at latitude"%(i+1),location2[1][13:22],"and longitude",location2[0].rsplit('}',1)[0][14:]),
