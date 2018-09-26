@@ -1,6 +1,6 @@
 # PUI 2018 HW #3
 
-This is the README file for my HW3 assignment. I worked on this assignment alone.
+This is the README file for my HW3 assignment. I worked on the entirety of the HW3 assignment alone.
 
 ## Assignment 1
 
