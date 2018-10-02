@@ -4,6 +4,10 @@ This is the README file for my HW4 assignment. I worked on the entirety of the H
 
 ## Assignment 1
 
+Refer to the "A1_TI.ipynb" file.
+
 ## Assignment 2
+
+Refer to the A2_TI.ipynb" file.
 
 ## Assignment 3
