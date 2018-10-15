@@ -8,6 +8,10 @@ For this assignment I forked Shijia Gu's (sg5718) PUI2018 repository. I then rev
 
 ## Assignment 2
 
+| **Statistical Analyses**	|  **IV(s)**  |  **IV type(s)** |  **DV(s)**  |  **DV Type(s)**  |  **Control Var** | **Control Var Type**  | **Question to be answered** | **_H0_** | **alpha** | **Link to paper**|
+|:-----------------------------:|:-----------:|:---------------:|:-----------:|:----------------:|:----------------:|:---------------------:|:---------------------------:|:--------:|:---------:|:----------------:|
+|test                           |test         |test             |test         |test              |test              |test                   |test                         |test      |test       |test              | 
+
 ## Assignment 3
 
 ## Assignment 4
