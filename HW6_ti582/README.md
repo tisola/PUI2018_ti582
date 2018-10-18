@@ -39,3 +39,5 @@ In order to assist my understanding of variable types, I referred to the lecture
 Refer to my "HW6_A3_TI.ipynb" file. For this assignment, I followed the skeleton notebook 'effectivenes of NYC Post-Prison Employment Programs.ipynb' on Dr. Bianco's GitHub repository as a template.
 
 ## Assignment 4
+
+Refer to my "HW6_A4_TI.ipynb" file. For this assignment, I followed the skeleton notebook 'citibikes_compare_distributions.ipynb' on Dr. Bianco's GitHub repository as a template.
