@@ -8,4 +8,8 @@ For this assignment, I reviewed Vivaldi Rinaldi's and Xiao Jing's plots. Vivaldi
 
 ## Assignment 2
 
+Refer to my "HW9_A2_TI.ipynb" file.
+
 ## Assignment 3
+
+Refer to my "HW9_A3_TI.ipynb" file.
