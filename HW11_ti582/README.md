@@ -8,4 +8,4 @@ Refer to my "HW11_A1_TI.ipynb" file. I have followed Professor Bianco's skeleton
 
 ## Assignment 2
 
-Refer to my "HW11_A2_TI.ipynb" file. I have incorporated amm1209's and mrn291's reviews into my updated plot.
+Refer to my "HW11_A2_TI.ipynb" file. I have incorporated as much of amm1209's and mrn291's reviews into my updated plot as I could. I was unable to incorporate the suggestion to size the Senior Centers markers by the size of the Senior Centers since I do not have that data. 
